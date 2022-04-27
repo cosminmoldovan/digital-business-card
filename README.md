@@ -1,4 +1,4 @@
-# Digital business card <sub><sup> - Scrimba React Course Project 2</sup></sub>
+# Digital business card <sub><sup>(Scrimba React Course Project 2)</sup></sub>
 First Solo Project - a digital business card.
 
  Requirements
