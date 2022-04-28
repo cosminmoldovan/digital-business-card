@@ -1,0 +1,13 @@
+.card{
+    display: block;
+    border: 1px solid black;
+    width: 320px;
+}
+.profile-img{
+    /* height: 200px;
+    background-color: red; */
+    border: 1px solid red;
+}
+.profile-img >img{
+    /* height: 200px; */
+}
