@@ -1,9 +1,10 @@
+import Card from './Card';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-     <h2>Cleaning React App</h2>
+     <Card />
     </div>
   );
 }
