@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-course-project-2/static/css/main.61bfeda7.css",
-    "main.js": "/react-course-project-2/static/js/main.e6f819ba.js",
-    "static/media/profile-img.png": "/react-course-project-2/static/media/profile-img.99b25e60f7772ff4957e.png",
-    "static/media/bg.jpg": "/react-course-project-2/static/media/bg.92f3b9043cb9e88858a1.jpg",
-    "index.html": "/react-course-project-2/index.html",
-    "main.61bfeda7.css.map": "/react-course-project-2/static/css/main.61bfeda7.css.map",
-    "main.e6f819ba.js.map": "/react-course-project-2/static/js/main.e6f819ba.js.map"
+    "main.css": "/digital-business-card/static/css/main.cd0aa366.css",
+    "main.js": "/digital-business-card/static/js/main.bb6dabd3.js",
+    "static/media/profile-img.png": "/digital-business-card/static/media/profile-img.99b25e60f7772ff4957e.png",
+    "static/media/bg.jpg": "/digital-business-card/static/media/bg.92f3b9043cb9e88858a1.jpg",
+    "index.html": "/digital-business-card/index.html",
+    "main.cd0aa366.css.map": "/digital-business-card/static/css/main.cd0aa366.css.map",
+    "main.bb6dabd3.js.map": "/digital-business-card/static/js/main.bb6dabd3.js.map"
   },
   "entrypoints": [
-    "static/css/main.61bfeda7.css",
-    "static/js/main.e6f819ba.js"
+    "static/css/main.cd0aa366.css",
+    "static/js/main.bb6dabd3.js"
   ]
 }
