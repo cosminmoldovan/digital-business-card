@@ -2,7 +2,7 @@
   "name": "react-course-project-2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://cosminmoldovan.github.io/react-course-project-1",
+  "homepage": "https://cosminmoldovan.github.io/react-course-project-2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
