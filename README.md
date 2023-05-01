@@ -8,4 +8,4 @@
     - About
     - Interests
 
-<img src="src/images/project-thumbnail.png"/>
+<img src="src/images/project-thumbnail.png" width="80%"/>
